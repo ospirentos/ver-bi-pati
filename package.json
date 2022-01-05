@@ -14,7 +14,7 @@
     "bootstrap-datepicker": "^1.9.0",
     "dotenv": "^8.2.0",
     "emailjs-com": "^2.4.1",
-    "firebase": "^7.2.2",
+    "firebase": "^7.24.0",
     "font-awesome": "^4.7.0",
     "google-form": "^1.0.2",
     "google-form-send": "^2.0.1",

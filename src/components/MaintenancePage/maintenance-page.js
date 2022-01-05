@@ -8,7 +8,7 @@ const MaintenancePage = (props)=>
   <div>  
     <div className="row"> 
       <div>
-        <img id="backgroundMaintenance" src={require('./../Res/images/Maintenance.png')} alt="Ver Bi Pati"/>
+        {/* <img id="backgroundMaintenance" src={require('./../Res/images/Maintenance.png')} alt="Ver Bi Pati"/> */}
       </div>
     </div>
   </div>
